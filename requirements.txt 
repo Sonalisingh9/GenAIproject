@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+uvicorn[standard]  # Included for Gunicorn Uvicorn Worker support
+pydantic
+google-genai       # Official SDK for Gemini
+gunicorn           # Production-ready web server
